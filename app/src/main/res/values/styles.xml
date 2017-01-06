@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- 自己修改分割线 -->
+        <!--<item name="android:listDivider">@mipmap/split</item> -->
+        <!-- 自己修改分割线 -->
+    </style>
+    <style name="listDividerTheme">
+        <item name="android:listDivider">@mipmap/split</item>
+    </style>
+</resources>
